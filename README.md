@@ -1,7 +1,7 @@
 ## Hi👋, I'm Yasmeen Ali
 
-                                 ##🌟 I'm Senior Backend Developer (Laravel API)🌟.
-```
+                                🌟 I'm Senior Backend Developer (Laravel API)🌟.
+---
  -🌱 With 7 years of experience as a  Php,Laravel Developer, I have a proven track record in developing high-quality and maintainable software for  platforms.
  My technical proficiency in PHP, Laravel coupled with my problem-solving skills and team collaboration abilities, have led to significant improvements in system efficiency and user engagement.
 
@@ -9,7 +9,7 @@
 
 -🔭 I Worked on Integrate with third party service( payment gateway , otp , firebase cloud messaging)
 
-```
+
 Educational
 ---
 ```
