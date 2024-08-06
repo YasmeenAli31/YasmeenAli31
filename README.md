@@ -4,7 +4,7 @@
 <h3 align="left">Summary</h3>
 
 <p align="left">
-  -  With 7 years of experience as a  Php,Laravel Developer, I have a proven track record in developing high-quality and maintainable software for  platforms.
+ 👨‍💻 With 7 years of experience as a  Php,Laravel Developer, I have a proven track record in developing high-quality and maintainable software for  platforms.
  My technical proficiency in PHP, Laravel coupled with my problem-solving skills and team collaboration abilities, have led to significant improvements in system efficiency and user engagement.
 
  -  I worked on a Educational system , tourism systems , advertisements system and e-commerce systems  using laravel while working In the company using laravel.
@@ -51,13 +51,24 @@
 </p>
 </li>
 <hr  style="height:1px;"/></ul><h3 align="left">Other Skills:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>  <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> 
 
-<a href="https://tenancyforlaravel.com/" target="_blank" rel="noreferrer"> <img src="" alt="multi-tenancy" width="40" height="40"/> </a>
-<a href="https://www.algolia.com/" target="_blank" rel="noreferrer"> <img src="" alt="algolia" width="40" height="40"/> </a>
-<a href="https://laravel.com/docs/11.x/sail" target="_blank" rel="noreferrer"> <img src="" alt="sail" width="40" height="40"/> </a>
-<a href="https://discuss.elastic.co/c/search/84" target="_blank" rel="noreferrer"> <img src="" alt="elasticsearch" width="40" height="40"/> </a>
-<a href="https://swagger.io/" target="_blank" rel="noreferrer"> <img src="" alt="swagger" width="40" height="40"/> </a>
+- algolia
+
+- multi-tenancy
+
+- sail
+
+- elasticsearch
+
+- swagger
+
+- OOP
+
+- Solid Principles
+
+- Design Patterns
+
+- multi-guards systems
 
 </p>
 <hr  style="height:1px;"/>
