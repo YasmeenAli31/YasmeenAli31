@@ -4,12 +4,25 @@
 <h3 align="left">Summary</h3>
 
 <p align="left">
- 👨‍💻 With 7 years of experience as a  Php,Laravel Developer, I have a proven track record in developing high-quality and maintainable software for  platforms.
+
+ 👨‍💻 I started my journey since 7 yearsas a  Php,Laravel Developer, I have a proven track record in developing high-quality and maintainable software for  platforms.
  My technical proficiency in PHP, Laravel coupled with my problem-solving skills and team collaboration abilities, have led to significant improvements in system efficiency and user engagement.
 
  -  I worked on a Educational system , tourism systems , advertisements system and e-commerce systems  using laravel while working In the company using laravel.
 
- - I Worked on Integrate with third party service( payment gateway , otp , firebase cloud messaging)
+ -  I Worked on Integrate with third party service( payment gateway , otp , firebase cloud messaging)
+
+ -  I Dealed with the operating system by command line using bash and batch script
+
+ -  I Built a database using SQL
+   
+ -  I Dealed with Search Engine Algolia ,elasticsearch
+
+  - Iam working with appling laravel software principle , Design Pattern
+
+  - I Worked on Role And Permissions
+
+ - I worked on monolithic , microservices projects
 </p>
 
 <hr   style="height:1px;"/>
@@ -81,7 +94,8 @@ Bachelor's Degree in Computer Science, University of Fayoum University , 2012 -2
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/in/yasmeen-ali-899930162" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/yasmeen-ali-899930162" height="30" width="40" /></a>
-<a href="Engyasmeenali@gmail.com">Engyasmeenali@gmail.com</a>
 
+ 
+<i title="fab fa-google" class="fab fa-google">engyasmeenali@gmail.com</i>
 </p>
 <hr style="height:1px;" />
