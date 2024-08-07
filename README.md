@@ -1,18 +1,16 @@
 <h1 align="center">Hi 👋, I'm Yasmeen Ali</h1>
 <h3 align="center">🌟 I'm Senior Backend Developer (Laravel API) in Murabba Dev Company🌟</h3>
-<hr  style="height:1px;"/>
+<br>
 <h3 align="left">Summary</h3>
 
 <p align="left">
 
- 👨‍💻 I started my journey since 7 yearsas a  Php,Laravel Developer, I have a proven track record in developing high-quality and maintainable software for  platforms.
+ 👨‍💻 I started my journey since 2017(3 years as native php developer , over 3 years until now as a Laravel Developer), I have a proven track record in developing high-quality and maintainable software for  platforms.
  My technical proficiency in PHP, Laravel coupled with my problem-solving skills and team collaboration abilities, have led to significant improvements in system efficiency and user engagement.
 
  -  I worked on a Educational system , tourism systems , advertisements system and e-commerce systems  using laravel while working In the company using laravel.
 
  -  I Worked on Integrate with third party service( payment gateway , otp , firebase cloud messaging)
-
- -  I Dealed with the operating system by command line using bash and batch script
 
  -  I Built a database using SQL
    
@@ -25,15 +23,15 @@
  - I worked on monolithic , microservices projects
 </p>
 
-<hr   style="height:1px;"/>
+<br>
 <h3 align="left">Skills:</h3>
 
 <ul dir="auto">
     <li>
         <p dir="auto">📋 Languages:</p>
-        <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5e7e215d9ff3a7c2e96d09232c11b2205565c841d1129dd2185ebd967284121f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/5e7e215d9ff3a7c2e96d09232c11b2205565c841d1129dd2185ebd967284121f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" alt="HTML5" data-canonical-src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" style="max-width: 100%;"></a>
-        <a href="https://www.w3.org/html/" target="_blank" rel="noopener noreferrer nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
+        <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5e7e215d9ff3a7c2e96d09232c11b2205565c841d1129dd2185ebd967284121f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465">
+         <img src="https://camo.githubusercontent.com/5e7e215d9ff3a7c2e96d09232c11b2205565c841d1129dd2185ebd967284121f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" alt="HTML5" data-canonical-src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" style="max-width: 100%;"></a>
+        <a href="https://www.w3.org/html/" target="_blank" rel="noopener noreferrer nofollow">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6531a4161596e3d9fdab3d0499a7b7ce5c5c8b568be219f3e9707af042e575d2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f637373332d2532333135373242362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/6531a4161596e3d9fdab3d0499a7b7ce5c5c8b568be219f3e9707af042e575d2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f637373332d2532333135373242362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465" alt="CSS3" data-canonical-src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6761d268e8995bfb6eab6b1cdde099d2fa857542065d3ac227a16a422b69a6f6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742532302d2532333332333333302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145"><img src="https://camo.githubusercontent.com/6761d268e8995bfb6eab6b1cdde099d2fa857542065d3ac227a16a422b69a6f6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742532302d2532333332333333302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145" alt="javascript" data-canonical-src="https://img.shields.io/badge/javascript%20-%23323330.svg?&amp;style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" style="max-width: 100%;"></a>
@@ -57,13 +55,14 @@
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3d768e26ac10ba994a60ed19acd487895cc43a9cdd43e9305c2408b93136234d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769742d2532334630353033332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/3d768e26ac10ba994a60ed19acd487895cc43a9cdd43e9305c2408b93136234d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769742d2532334630353033332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465" alt="Git" data-canonical-src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&amp;logo=git&amp;logoColor=white" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/410d86e43f847d3f6e3027fa6f0c2fb7641d893fa601d863a943eac968c41890/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d2532333132313031312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/410d86e43f847d3f6e3027fa6f0c2fb7641d893fa601d863a943eac968c41890/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d2532333132313031312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" alt="GitHub" data-canonical-src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&amp;logo=github&amp;logoColor=white" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e0aa4b3bb9af7d3610dd65656751f3940ef645e1e3e5ff727abecec2accfb31b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4646364333373f7374796c653d666f722d7468652d6261646765266c6f676f3d506f73746d616e266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/e0aa4b3bb9af7d3610dd65656751f3940ef645e1e3e5ff727abecec2accfb31b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4646364333373f7374796c653d666f722d7468652d6261646765266c6f676f3d506f73746d616e266c6f676f436f6c6f723d7768697465" alt="postman" data-canonical-src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&amp;logo=Postman&amp;logoColor=white" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a51a906f4f9c7559793b080de0384a12bb4be73204f8af967fd948fdb06d890a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f58616d70702d4633373632333f7374796c653d666f722d7468652d6261646765266c6f676f3d78616d7070266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/a51a906f4f9c7559793b080de0384a12bb4be73204f8af967fd948fdb06d890a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f58616d70702d4633373632333f7374796c653d666f722d7468652d6261646765266c6f676f3d78616d7070266c6f676f436f6c6f723d7768697465" alt="Xmapp" data-canonical-src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&amp;logo=xampp&amp;logoColor=white" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c292429e232884db22e86c2ea2ea7695bc49dc4ae13344003a95879eeb7425d8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57696e646f77732d3030373844363f7374796c653d666f722d7468652d6261646765266c6f676f3d77696e646f7773266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/c292429e232884db22e86c2ea2ea7695bc49dc4ae13344003a95879eeb7425d8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57696e646f77732d3030373844363f7374796c653d666f722d7468652d6261646765266c6f676f3d77696e646f7773266c6f676f436f6c6f723d7768697465" alt="Windows" data-canonical-src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&amp;logo=windows&amp;logoColor=white" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c85298b006da4468d00bc9644bd07f47308c5c59e06a789f1cddc9387d8d1d13/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f66745f4f66666963652d4438334230313f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f66742d6f6666696365266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/c85298b006da4468d00bc9644bd07f47308c5c59e06a789f1cddc9387d8d1d13/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f66745f4f66666963652d4438334230313f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f66742d6f6666696365266c6f676f436f6c6f723d7768697465" alt="Microsoft Office" data-canonical-src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&amp;logo=microsoft-office&amp;logoColor=white" style="max-width: 100%;"></a>
 <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer nofollow"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+ <a href="/logos/atlassian_jira/index.html" title="Jira" target="_blank" rel="noopener noreferrer nofollow"><img alt="Jira" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg" width="40" height="40"/> </a> 
 </p>
 </li>
-<hr  style="height:1px;"/></ul><h3 align="left">Other Skills:</h3>
+<br>
+</ul><h3 align="left">Other Skills:</h3>
 
 - algolia
 
@@ -81,21 +80,27 @@
 
 - Design Patterns
 
-- multi-guards systems
+- Multiple Authentication Guards
 
+- ajax
+
+- implement agile concept via jira tool
+  
+- slack
+  
+- hmvc
+  
+- Wampserver
 </p>
-<hr  style="height:1px;"/>
+<br>
 <h3 align="left">Educational:</h3>
 <p align="left">
 Bachelor's Degree in Computer Science, University of Fayoum University , 2012 -2016
 </p>
-<hr style="height:1px;" />
-
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/in/yasmeen-ali-899930162" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/yasmeen-ali-899930162" height="30" width="40" /></a>
-
- 
-<i title="fab fa-google" class="fab fa-google">engyasmeenali@gmail.com</i>
+<i  class="fa fa-google-plus">engyasmeenali@gmail.com</i>
 </p>
-<hr style="height:1px;" />
+<br>
