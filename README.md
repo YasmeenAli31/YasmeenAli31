@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yasmeen Ali</h1>
-<h3 align="center">🌟 I'm Senior Backend Developer (Laravel API) in Murabba Dev Company🌟</h3>
+<h3 align="center">🌟 I'm Senior Backend Laravel Developer🌟</h3>
 <br>
 <h3 align="left">Summary</h3>
 
