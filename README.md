@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yasmeen Ali</h1> <h3 align="center">🌟 Backend Laravel Developer 🌟</h3>
 <h3 align="left">Summary</h3> <p align="left">
-👨‍💻 I began my development journey in 2017, gaining 3 years of experience as a native PHP developer and over 3 years as a Laravel Developer. I have a proven track record in developing high-quality, maintainable software for diverse platforms.
+👨‍💻 I began my development journey in 2018, gaining 3 years of experience as a native PHP developer and over 3 years as a Laravel Developer. I have a proven track record in developing high-quality, maintainable software for diverse platforms.
 
 My expertise in PHP and Laravel, combined with strong problem-solving skills and a collaborative team approach, has consistently delivered significant improvements in system efficiency and user engagement.
 
